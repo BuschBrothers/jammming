@@ -1,6 +1,6 @@
 
 const clientId = '1f5056420b2548278431c7be52821508';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://jamming_busch.surge.sh';
 
 let accessToken;
 
